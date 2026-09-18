@@ -1,0 +1,28 @@
+/* Styles the entire webpage */
+
+body {
+    background-color: #1b0d0d;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+
+h1 {
+    color: #e85d3f;
+    font-size: 45px;
+}
+
+
+p {
+    font-size: 18px;
+    max-width: 600px;
+    margin: 20px auto;
+    line-height: 1.6;
+}
+
+/* Styles the smaller headings */
+h2 {
+    color: #ff9b7a;
+}
