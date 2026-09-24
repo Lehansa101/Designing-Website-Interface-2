@@ -4,7 +4,7 @@
     <!-- Sets the page title -->
     <title>Red Horizon Tours</title>
 
-    <!-- Connects the CSS file to this page -->
+    <!-- Connects the CSS file -->
     <link rel="stylesheet" href="style.css">
 </head>
 
@@ -13,9 +13,9 @@
     <!-- Main heading -->
     <h1>Red Horizon Tours</h1>
 
-    <!-- Company description -->
     <h2>Explore the Red Planet</h2>
 
+    <!-- Company description -->
     <p>
         Red Horizon Tours is a space tourism company that provides
         exciting tours to Mars. Our goal is to give future explorers
@@ -23,16 +23,11 @@
         amazing landscapes.
     </p>
 
-    <!-- Simple welcome message -->
-    <h2>Welcome to Mars!</h2>
+    <!-- Link to the pilot application -->
+    <a href="pilot.php">Apply to Become a Mars Pilot</a>
 
-    <p>
-        Your adventure beyond Earth starts here.
-    </p>
-
-    <!-- Connects the JavaScript file to this page -->
+    <!-- Connects the JavaScript file -->
     <script src="script.js"></script>
 
 </body>
 </html>
-```

@@ -26,3 +26,50 @@ p {
 h2 {
     color: #ff9b7a;
 }
+
+/* Styles the application form */
+form {
+    max-width: 600px;
+    margin: 30px auto;
+    text-align: left;
+}
+
+/* Styles the form labels */
+label {
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+/* Styles the text boxes, number boxes, dropdown, and text area */
+input,
+select,
+textarea {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid #999;
+}
+
+/* Styles the submit button */
+button {
+    margin-top: 25px;
+    padding: 12px 25px;
+    background-color: #e85d3f;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Changes the button when the mouse is over it */
+button:hover {
+    background-color: #b83e2b;
+}
+
+/* Makes links easier to see */
+a {
+    color: #ff9b7a;
+    font-size: 18px;
+}
